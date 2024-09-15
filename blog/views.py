@@ -7,3 +7,5 @@ class PostList(generic.ListView):
     template_name = "blog/index.html"
     paginate_by = 6
     
+    
+    
